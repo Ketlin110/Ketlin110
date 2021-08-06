@@ -4,8 +4,8 @@
   Oiii, meu nome é Ketlin, sou <strong> Quality Assurance e estudante de Front-end!</strong>.<br>
  
 - 🎓 Análise e Desenvolvimento de Sistemas, na **Faculdade Uninove** ...
-- 🦄 Techs:JavaScript, HTML e CSS, Cypress, Selenium IDE, Selenium Webdriver.
-- 🌸 Aprendendo mais sobre **React, Node e Next.js**.
+- 🦄 Techs: HTML e CSS, Javascript, Cypress, Selenium IDE e Selenium Webdriver.
+- 🌸 Aprendendo mais sobre **ReactJS, NodeJS, Laravel e Next.js**.
 </p>
 
 <p align="left">
