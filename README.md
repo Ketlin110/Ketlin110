@@ -3,7 +3,7 @@
 <p align="left"> 
   Oiii, meu nome é Ketlin, sou <strong> Quality Assurance e estudante de Front-end!</strong>.<br>
  
-- 🎓 Análise e Desenvolvimento de Sistemas, na **Faculdade Uninove** ...
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas, na **Faculdade Uninove** ...
 - 🦄 Techs: HTML e CSS, Javascript, Git, Cypress e Robot.
 - 🌸 Aprendendo mais sobre **ReactJS, NodeJS, API, e Next.js**.
 </p>
